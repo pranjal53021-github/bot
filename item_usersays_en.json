@@ -1,0 +1,54 @@
+[
+  {
+    "id": "760fea1c-e6a8-4040-a9f4-cd30ae9e728f",
+    "data": [
+      {
+        "text": "butter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f25605f7-ef78-4c4c-9c47-5dfdfa15b8c2",
+    "data": [
+      {
+        "text": "milk shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5008462b-9655-4df7-b384-bff5ef42ef4c",
+    "data": [
+      {
+        "text": "i want ice cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23b8601e-6f5f-4118-aaca-6467fa80e2af",
+    "data": [
+      {
+        "text": "coke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

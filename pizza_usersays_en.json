@@ -1,0 +1,28 @@
+[
+  {
+    "id": "afb731d5-5f2e-40c3-b7d8-7f742799c51c",
+    "data": [
+      {
+        "text": "pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "008e1559-7c10-41ca-a197-1c1b68e9c66d",
+    "data": [
+      {
+        "text": "pizzas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

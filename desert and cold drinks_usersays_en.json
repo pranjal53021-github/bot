@@ -1,0 +1,54 @@
+[
+  {
+    "id": "9021e0fa-e980-41c6-bffc-84d63da00fa5",
+    "data": [
+      {
+        "text": "deserts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17849ecd-c520-4fd0-8a6a-5471389a9526",
+    "data": [
+      {
+        "text": "cold drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21bd8461-1a5d-4d1a-be83-38bd3d555191",
+    "data": [
+      {
+        "text": "only drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4cfa96c-c5c6-43bb-b086-cfc9ad0515de",
+    "data": [
+      {
+        "text": "desert and cold drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
